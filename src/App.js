@@ -6,6 +6,9 @@ function App() {
     <div className="App">
       <div className="AppVideos">
         <Video />
+        <Video />
+        <Video />
+        <Video />
       </div>
     </div>
   )
